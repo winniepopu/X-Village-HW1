@@ -2,6 +2,7 @@ X-Village Homework1
 ===
 # 程式敘述
 透過本code可以計算matrix的加、減、乘冪、轉置矩陣
+
 本code利用Class定義類別Matrix，提供以下功能
 
 * **基礎功能**  
